@@ -61,12 +61,12 @@
 ## 4. :building_construction: 프로젝트 파일 구조 
 - 파일 구조
 
-![image](/uploads/556886de9a2a87a2be3e67009e7d62f0/image.png)
+![image](README.assets/image-16661775119044.png)
 
 
 ## 5. :family: 팀원 역할 분배
 
-![image](/uploads/a155a9a943ccc3e5034417c2aaaaf960/image.png)
+![image](README.assets/image-16661775119044.png)
 
 ## 6. :volcano: 프로젝트 산출물
 
@@ -94,7 +94,7 @@
 - 카카오 로그인 / 회원가입
 (닉네임 중복 검사를 해야 회원가입을 할 수 있습니다)
 
-![regiser_login](/uploads/21e71b897a3100add9ba53d1f158f06a/regiser_login.gif)
+![regiser_login](README.assets/image-16661775119044.png)
 
 
 
@@ -104,7 +104,7 @@
 - 메뉴 추천
 
 
-![image](/uploads/390c0c4d1db31f2643db3df7ef9e7ea8/image.png)
+![image](README.assets/image-16661775221996.png)
 
 
 
@@ -236,5 +236,5 @@
 - 회원가입 후 불호 재료, 알레르기 설문을 통해 개인 맞춤화된 추천을 받을 수 있습니다.
 - 입맛에 대한 설문조사로 썹BTI 검사를 진행하고 이를 꿀조합 추천에 활용합니다.
 
-![exclude_subti](/uploads/242a30bc5b28582976840cb93a60f459/exclude_subti.gif)
+![exclude_subti](README.assets/exclude_subti.gif)
 
