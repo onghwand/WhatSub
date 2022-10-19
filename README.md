@@ -66,7 +66,7 @@
 
 ## 5. :family: 팀원 역할 분배
 
-![image](README.assets/image-16661775119044.png)
+![image](README.assets/image-16661776398101.png)
 
 ## 6. :volcano: 프로젝트 산출물
 
@@ -94,7 +94,7 @@
 - 카카오 로그인 / 회원가입
 (닉네임 중복 검사를 해야 회원가입을 할 수 있습니다)
 
-![regiser_login](README.assets/image-16661775119044.png)
+![regiser_login](README.assets/regiser_login.gif)
 
 
 
